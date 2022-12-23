@@ -1,5 +1,5 @@
 
-### Check this cool app via [link 👈]()
+### Check this cool app via [link 👈](https://ruslandidun91.github.io/ConnectFour_js/)
 <div id="description" align="center">   🤗
 
 ## :pencil: Description
